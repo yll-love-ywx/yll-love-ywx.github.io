@@ -6,7 +6,7 @@
 		document.writeln("			.BBW_play {");
 		document.writeln("				width: 60px;");
 		document.writeln("				height: 60px;");
-		document.writeln("				background: url('./images/play.png') no-repeat;");
+		document.writeln("				background: url('./img/play.png') no-repeat;");
 		document.writeln("				background-size:100% 100% ;");
 		document.writeln("				position: fixed;");
 		document.writeln("				top: 2%;");
@@ -20,7 +20,7 @@
 		document.writeln("			.BBW_pause {");
 		document.writeln("				width: 60px;");
 		document.writeln("				height: 60px;");
-		document.writeln("				background: url('./images/play.png') no-repeat;");
+		document.writeln("				background: url('./img/play.png') no-repeat;");
 		document.writeln("				background-size:100% 100% ;");
 		document.writeln("				position: fixed;");
 		document.writeln("				top: 2%;");
